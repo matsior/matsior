@@ -1,7 +1,7 @@
 ### Hi there :penguin:
 
-- 🔭 I’m currently working on [Open Source: Track Expenses App](https://github.com/bycza-zagroda/track-expenses-app)
-- 🌱 I’m currently learning: Java and SpringBoot
+- 🔭 I’m currently working on [beerApi](https://github.com/matsior/beer-api)
+- 🌱 I’m currently learning: SpringBoot and JUnit5/AssertJ
 - 📫 How to reach me: mat.krajew@gmail.com
 
 ### Technologies:
