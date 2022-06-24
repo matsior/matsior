@@ -13,10 +13,6 @@
 ![github](https://img.shields.io/badge/-github-black?style=flat&logo=github)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-black?style=flat&logo=apachemaven)
 
-
-
-apachemaven
-
 ### GitHub stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=matsior&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20github%20stats)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsior)
