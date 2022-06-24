@@ -4,6 +4,19 @@
 - 🌱 I’m currently learning: SpringBoot and JUnit5/AssertJ
 - 📫 How to reach me: mat.krajew@gmail.com
 
+![Java](https://img.shields.io/badge/-java-blue?style=flat&logo=java)
+![html](https://img.shields.io/badge/-html-blue?style=flat&logo=html5)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue?style=flat&logo=springboot)
+![JUnit5](https://img.shields.io/badge/-JUnit5-blue?style=flat&logo=junit5)
+![git](https://img.shields.io/badge/-git-blue?style=flat&logo=git)
+![github](https://img.shields.io/badge/-github-blue?style=flat&logo=github)
+![MySQL](https://img.shields.io/badge/-MySql-blue?style=flat&logo=mysql)
+
+
+
+
+
+
 ### Technologies:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"></code>
