@@ -10,7 +10,7 @@
 ![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=flat&logo=junit5)
 ![git](https://img.shields.io/badge/-git-black?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-black?style=flat&logo=github)
-![MySQL](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white)
 
 ### GitHub stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=matsior&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20github%20stats)<br/>
