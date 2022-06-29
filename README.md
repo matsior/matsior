@@ -13,6 +13,7 @@
 ![git](https://img.shields.io/badge/-git-black?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-black?style=flat&logo=github)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-black?style=flat&logo=apachemaven)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellijidea)
 
 ### GitHub stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=matsior&show_icons=true&count_private=true&custom_title=My%20github%20stats)<br/>
