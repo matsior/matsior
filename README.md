@@ -8,6 +8,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![html](https://img.shields.io/badge/-html5-black?style=flat&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white)
+![Liquibase](https://img.shields.io/badge/-Liquibase-black?style=flat&logo=liquibase)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=flat&logo=junit5)
 ![git](https://img.shields.io/badge/-git-black?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-black?style=flat&logo=github)
