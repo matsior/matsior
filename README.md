@@ -1,5 +1,5 @@
 ### Hi there :penguin:
-- 🔭 I’m currently working on [beerApi](https://github.com/matsior/beer-api)
+- 🔭 I’m currently working on [beerApi](https://github.com/matsior/beer-api) and [tutoring-platform](https://github.com/Simple-as-Coding/tutoring-platform)
 - 🌱 I’m currently learning: SpringBoot and JUnit5/AssertJ
 - 📫 How to reach me: mat.krajew@gmail.com
 
