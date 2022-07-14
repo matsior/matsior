@@ -13,6 +13,7 @@
 ![git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-black?style=flat&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat&logo=gradle)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=swagger)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellijidea)
 
