@@ -1,6 +1,6 @@
 ### Hi there :penguin:
 - 🔭 I’m currently working on [beerApi](https://github.com/matsior/beer-api) and [tutoring-platform](https://github.com/Simple-as-Coding/tutoring-platform)
-- 🌱 I’m currently learning: SpringBoot and JUnit5/AssertJ
+- 🌱 I’m currently learning: SpringBoot, Docker and JUnit5/AssertJ
 - 📫 How to reach me: mat.krajew@gmail.com
 
 ### Technologies:
@@ -9,6 +9,7 @@
 ![html](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/-Liquibase-black?style=flat&logo=liquibase)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=flat&logo=junit5)
 ![git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
