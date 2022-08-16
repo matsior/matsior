@@ -1,6 +1,6 @@
 ### Hi there :penguin:
 - 🔭 I’m currently working on [beerApi](https://github.com/matsior/beer-api) and [tutoring-platform](https://github.com/Simple-as-Coding/tutoring-platform)
-- 🌱 I’m currently learning: Spring Security and Docker
+- 🌱 I’m currently learning: Docker
 - 📫 How to reach me: mat.krajew@gmail.com
 
 ### Technologies:
