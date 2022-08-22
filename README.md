@@ -6,6 +6,7 @@
 ### Technologies:
 ![Java](https://img.shields.io/badge/-Java%2017-black?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
+![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)
 ![html](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/-Liquibase-black?style=flat&logo=liquibase)
