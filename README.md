@@ -1,14 +1,14 @@
 ### Hi there :penguin:
-- 🔭 I’m currently working on [beerApi](https://github.com/matsior/beer-api) and [tutoring-platform](https://github.com/Simple-as-Coding/tutoring-platform)
-- 🌱 I’m currently learning: Docker and Go
+- 🔭 I’m currently working on [Reservo](https://github.com/rezervo)
+- 🌱 I’m currently learning: Microservices
 - 📫 How to reach me: mat.krajew@gmail.com
 
 ### Technologies:
 ![Java](https://img.shields.io/badge/-Java%2017-black?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
-![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)
 ![html](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=PostgreSql&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/-Liquibase-black?style=flat&logo=liquibase)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=flat&logo=junit5)
